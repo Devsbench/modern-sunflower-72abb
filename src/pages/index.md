@@ -35,7 +35,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-      - title: Collaboration
+      - title: 3. Collaboration
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
