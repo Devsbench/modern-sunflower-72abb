@@ -6,9 +6,8 @@ sections:
     title: The Best Talent To Build Your Organization
     image: images/5.jpg
     content: >
-      We focus on **Golang** devs recruitment and contracting. We are not a
-      standard hr agency. Why? Because we are ... devs who have a network of
-      **Golang** talent. We know how to find the top 1%. 
+      We connect the most extraordinary Golang developer's talent with the most
+      innovative companies in the world.
     actions:
       - label: Get Started
         url: /docs
