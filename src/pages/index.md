@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Scale Your Team in Europe.
-    image: images/5.jpg
+    image: images/2.jpg
     content: >
       We focus on **Golang** devs recruitment and contracting. We are not a
       standard hr agency. Why? Because we are ... devs who have a network of
