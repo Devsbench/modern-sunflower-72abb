@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: House of Golang
+    title: Scale Dev Teams Faster
     image: images/5.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
