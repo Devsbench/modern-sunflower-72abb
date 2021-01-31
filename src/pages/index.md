@@ -6,8 +6,9 @@ sections:
     title: Scale Up Team in Europe. Get High Quality Code at Speed
     image: images/5.jpg
     content: >
-      We have a focus. Focus on Golang Devs Scouting (yes, we are not an
-      standard hr agency charging 30%)
+      We have a focus. Focus on Golang Devs Scouting. We are much cheaper and
+      better than a standard agency. Why? Because we have a strong pipeline of
+      golang talent and we know how to recruit them.
     actions:
       - label: Get Started
         url: /docs
