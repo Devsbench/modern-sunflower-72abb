@@ -6,10 +6,10 @@ sections:
     title: Scale Your Team in Europe.
     image: images/5.jpg
     content: >
-      We focus on **Golang** devs recruitment and contracting. We are much
-      cheaper and better than a standard agency. Why? Because we are
-      ...**Golang** devs who have a strong pipeline and network of **Golang**
-      talent. We know how to recruit the top 1%.
+      We focus on **Golang** devs recruitment and contracting. We are not a
+      standard hr agency. Why? Because we are ...**Golang** devs who have a
+      strong pipeline and network of **Golang** talent. We know how to recruit
+      the top 1%. 
     actions:
       - label: Get Started
         url: /docs
