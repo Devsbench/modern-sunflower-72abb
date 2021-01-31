@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: The Best Talent To Build Your Organization
+    title: The Best Talent in Europe To Build Your Organization
     image: images/5.jpg
     content: >
       We connect the most extraordinary Golang developer's talent with the most
