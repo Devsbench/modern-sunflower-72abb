@@ -7,7 +7,7 @@ sections:
     image: images/5.jpg
     content: >
       We connect the most extraordinary Golang developers with the most
-      innovative companies in the world. Save up to 50% and scale up faster.
+      innovative companies in the world
     actions:
       - label: Get Started
         url: /docs
