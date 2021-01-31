@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Scale up Dev Team in Europe. Get High Quality Code at Speed
+    title: Scale Up Team in Europe. Get High Quality Code at Speed
     image: images/5.jpg
     content: >
       We have a focus. Focus on Golang Devs Scouting (yes, we are not an
