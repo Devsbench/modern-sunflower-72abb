@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: The Best Talent To Build Your Organization
-    image: images/5.jpg
+    image: images/Untitled design.png
     content: >
       We connect the most extraordinary **Golang** developers with the most
       innovative companies in the world
