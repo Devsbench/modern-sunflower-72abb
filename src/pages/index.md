@@ -6,10 +6,9 @@ sections:
     title: Scale Your Team in Europe. Get High Quality Code and Speed.
     image: images/5.jpg
     content: >
-      We have a focus. Focus on Golang Devs Recruitment. Contractors and FTE.
-      Whoever you need. We are much cheaper and better than a standard agency.
-      Why? Because we have a strong pipeline of golang talent and we know how to
-      recruit them.
+      We focus on **Golang **devs recruitment and contracting. We are much
+      cheaper and better than a standard agency. Why? Because we have a strong
+      pipeline of golang talent and we know how to recruit them and retain.
     actions:
       - label: Get Started
         url: /docs
