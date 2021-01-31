@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Scale Dev Teams Faster
+    title: Scale Go Dev Teams Faster
     image: images/5.jpg
     content: >
       We have a focus. Focus on Golang Devs Scouting (yes, we are not an
