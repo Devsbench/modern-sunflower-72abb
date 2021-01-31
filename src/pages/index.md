@@ -6,7 +6,7 @@ sections:
     title: The Best Talent in Europe To Build Your Organization
     image: images/5.jpg
     content: >
-      We connect the most extraordinary Golang developers with the most
+      We connect the most extraordinary **Golang** developers with the most
       innovative companies in the world
     actions:
       - label: Get Started
