@@ -9,7 +9,7 @@ sections:
       We connect the most extraordinary **Golang** developers with the most
       innovative companies in the world
     actions:
-      - label: Get Started
+      - label: Hire Talent
         url: /docs
         style: primary
   - section_id: features
