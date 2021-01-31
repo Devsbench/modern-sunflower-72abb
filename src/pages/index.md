@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Scale Dev Teams in Europe
+    title: Scale Dev Team in Europe
     image: images/5.jpg
     content: >
       We have a focus. Focus on Golang Devs Scouting (yes, we are not an
