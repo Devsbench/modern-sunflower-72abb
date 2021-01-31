@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Scaleup Your Team in Europe
+    title: The Best Talent To Build Your Organization
     image: images/5.jpg
     content: >
       We focus on **Golang** devs recruitment and contracting. We are not a
