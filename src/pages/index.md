@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Scale Your Team in Europe. Get High Quality Code at Speed
+    title: Scale Your Team in Europe. Get High Quality Code and Speed.
     image: images/5.jpg
     content: >
       We have a focus. Focus on Golang Devs Recruitment. Contractors and FTE.
