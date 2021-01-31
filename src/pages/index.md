@@ -8,8 +8,7 @@ sections:
     content: >
       We focus on **Golang** devs recruitment and contracting. We are much
       cheaper and better than a standard agency. Why? Because we are **Golang**
-      developers who have a strong pipeline and network of **Golang** talent.
-      Get high code quality and speed of development.
+      developers who have a strong pipeline and network of **Golang** talent. 
     actions:
       - label: Get Started
         url: /docs
